@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
+title: About Matt
 description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2020-01-28
     changefreq: weekly
 ---
-## About our Site
+## About Matt
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/initial_picture.jpg" | absolute_url }}" alt="" /></span>
 
 Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
 
