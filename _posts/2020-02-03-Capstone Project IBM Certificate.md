@@ -1,7 +1,3 @@
-# Capstone Business Problem - Week 2
-
-### Applied Data Science Capstone by IBM/Coursera
-
 ## Introduction/Business Problem
 
 I am a huge connoisseur of coffee and have always harbored a pipe dream of opening a coffee shop focused on simple, but elevated coffee. The suggested prompt for the assignment got me thinking about where I could open a coffee shop in the city of Atlanta, where I live. Atlanta has some decent coffee, especially within the city limits. However, there are some areas which are devoid of good coffee and therefore could be a good location to open a shop.
