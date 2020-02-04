@@ -581,7 +581,7 @@ atl_venues3[['Count']].hist()
 
 
 
-![png](output_28_1.png)
+![png](\images\output_28_1.png)
 
 
 
