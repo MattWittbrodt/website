@@ -12,13 +12,17 @@ I turned to [`Shiny`](https://shiny.rstudio.com) web apps for this purpose to de
 
 The app features sortable tables (pictured below) with sliders. There is a table for offensive stats and one for opposing team defensive stats. The tables are also searchable.
 
-<img src = "https://raw.githubusercontent.com/MattWittbrodt/website/master/images/shiny_post/qb_table.png" width = "500" />
+<img src = "https://raw.githubusercontent.com/MattWittbrodt/website/master/images/shiny_post/qb_table.png" width = "900" />
+
+
 
 
 
 In addition, there are interactive plots below. The plots will display all results in the table (default), but this can be disabled and the app will show players clicked on in the table. Additionally, the y axis, x axis, and size of the circle can be altered to display any of the variables within the table. These tables were created using ``ggplot2`` with dynamically coded data frame.
 
-<img src = "https://raw.githubusercontent.com/MattWittbrodt/website/master/images/shiny_post/qb_graph.png" width = "500" />
+<img src = "https://raw.githubusercontent.com/MattWittbrodt/website/master/images/shiny_post/qb_graph.png" width = "900" />
+
+
 
 
 
