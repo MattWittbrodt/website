@@ -1,5 +1,3 @@
-## Shiny Web App
-
 ### Custom ``Shiny`` web app for Daily Fantasy Football
 
 I have used many different fantasy football lineup creation tools and data services and have always been frustrated by the slow nature and lack of integration without external information. Therefore, I wanted to develop my own tool for these purposes which was faster and better fit my personal needs. 
