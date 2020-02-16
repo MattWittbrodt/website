@@ -22,11 +22,11 @@
 
 9. Millard-Stafford, M., Swanson, A.E., **Wittbrodt, M.T.** (2018). Nature vs. Nurture: Have Performance Gaps Between Men and Women Reached an Asymptote? *International Journal of Sports Physiology and Performance*. 13(4), 530-535.
 
-10. **Wittbrodt, M.T.**, Espinoza, S., \& Millard-Stafford, M.L. (2015). Biological Variation of Plasma Osmolality Obtained with Capillary Versus Venous Blood. *Clinical Chemistry and Laboratory Medicine*. 53(10), 1613-1619
+10. **Wittbrodt, M.T.**, Espinoza, S., & Millard-Stafford, M.L. (2015). Biological Variation of Plasma Osmolality Obtained with Capillary Versus Venous Blood. *Clinical Chemistry and Laboratory Medicine*. 53(10), 1613-1619
 
-11. **Wittbrodt, M.T.**, Millard-Stafford, M.L., Sherman, R.A., \& Cheatham, C.C. (2015). Ad Libitum Fluid Replacement Attenuates Physiological Strain Resulting From Mild Hypohydration Without Impacting Cognitive Performance. *International Journal of Sport Nutrition and Exercise Metabolism*. 25(5), 439-447
+11. **Wittbrodt, M.T.**, Millard-Stafford, M.L., Sherman, R.A., & Cheatham, C.C. (2015). Ad Libitum Fluid Replacement Attenuates Physiological Strain Resulting From Mild Hypohydration Without Impacting Cognitive Performance. *International Journal of Sport Nutrition and Exercise Metabolism*. 25(5), 439-447
 
-12. DeSousa, J., Cheatham, C.C., \& **Wittbrodt, M.T.** (2014). The effects of a moisture-wicking fabric garment on the physiological and perceptual responses during acute exercise in the heat. *Applied Ergonomics*. 45(6), 1447-1453
+12. DeSousa, J., Cheatham, C.C., & **Wittbrodt, M.T.** (2014). The effects of a moisture-wicking fabric garment on the physiological and perceptual responses during acute exercise in the heat. *Applied Ergonomics*. 45(6), 1447-1453
 
 13. **Wittbrodt, M.T.**, Gurel, N.Z., Nye, J.A., Ladd, S., Shah, A.J., Shandhi, M.H., Huang, M., Alam, Z.S., Pearce, B.D., Murrah, N., Ko, Y., Shallenberger, L.H., Vaccarino, V., Inan, O.T., Bremner, J.D. Non-Invasive Vagal Nerve Stimulation Decreases Brain Activity During Trauma Scripts. (*Under Review - Brain Stimulation*)
 
