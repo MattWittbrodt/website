@@ -1,4 +1,4 @@
- ## Manuscripts
+## Manuscripts
 
 1. **Wittbrodt, M.T.**, Vaccarino, V., Shah, A.J., Mayer, E.A., Bremner, J.D. Psychometric Properties of the Lifetime Trauma Inventory. *Accepted - Health Psychology*
 
