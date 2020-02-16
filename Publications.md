@@ -1,4 +1,4 @@
-# Manuscripts
+ ## Manuscripts
 
 1. **Wittbrodt, M.T.**, Vaccarino, V., Shah, A.J., Mayer, E.A., Bremner, J.D. Psychometric Properties of the Lifetime Trauma Inventory. *Accepted - Health Psychology*
 
@@ -35,3 +35,7 @@
 15. Gurel, N.Z., **Wittbrodt, M.T.**, Jung, H., Ladd, S.L., Shah, A.J., Vaccarino, V., Bremner, J.D., Inan, O.T. Automatic Detection of Target Engagement in Transcutaneous Cervical Vagal Nerve Stimulation for Traumatic Stress Triggers. (*Under Review - Journal of Biomedical and Health Informatics*)
 
 16. Gurel, N.Z., **Wittbrodt, M.T.**, Jung, H., Shandhi, M.H., Stagnaro, E.G., Ladd, S.L., Huang, M., Ko, Y., Shallenberger, L., Beckwith, J., Nye, J.A., Pearce, B.D., Vaccarino, V., Shah, A.J., Inan, O.T., Bremner, J.D. Transcutaneous Cervical Vagal Nerve Stimulation Blocks Sympathetic Responses to Stress in Posttraumatic Stress Disorder (*Under Review - Brain Stimulation*)
+
+## Book Chapters
+
+1. Millard-Stafford M.L. & **Wittbrodt M.T.**. Chapter 29: Sex and Performance: Nature Versus Nurture. In: *Routledge Handbook of Sport and Exercise Systems Genetics*. Editors: Lightfoot, J.T., Hubal, M.J., Roth, S.R. Routledge Publishing. 1st edition. 2019.
