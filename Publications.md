@@ -4,7 +4,7 @@
 
 2. Moazzami, K., **Wittbrodt, M.T.**, Lima, B.B., Levantsevych, O., Kaseer, B., Martini, A., Haffar, A., Nye, J., Quyyumi, A.A., Shah, A., Vaccarino, V., Bremner, J.D. Neural Correlates of Stress and Measures of Adiposity in Patients with Coronary Artery Disease.  *Accepted - Psychosomatic Medicine*
 
-3. Gurel, N.Z., Huang, M., **Wittbrodt, M.T.**, Jung, H., Ladd, S.L., Shandhi, M.H., Ko, Y., Shallenberger, L., Nye, J.A., Pearce, B., Vaccarino, V., Shah, A.J., Bremner, J.D., Inan, O.T. Quantifying Acute Physiological Biomarkers of Transcutaneous Cervical Vagal Nerve Stimulation in the Context of Psychological Stress. *Accepted - Brain Stimulation*
+3. Gurel, N.Z., Huang, M., **Wittbrodt, M.T.**, Jung, H., Ladd, S.L., Shandhi, M.H., Ko, Y., Shallenberger, L., Nye, J.A., Pearce, B., Vaccarino, V., Shah, A.J., Bremner, J.D., Inan, O.T. (2020). Quantifying Acute Physiological Biomarkers of Transcutaneous Cervical Vagal Nerve Stimulation in the Context of Psychological Stress. *Brain Stimulation*. 13(1), 47-59.  [Link to paper](https://drive.google.com/file/d/16smZCp1UY_teDI6kHHXnoSjllB8RAZVe/view?usp=sharing)
 
 4. **Wittbrodt, M.T.**, Moazzami, K., Lima, B.B., Alam, Z.S., Corry, D., Hammadah, M., Campanella, C., Ward, L., Quyyumi, A.A., Shah, A.J., Vaccarino, V., Nye, J.A., Bremner, J.D. (2019). Early childhood trauma alters neurological responses to mental stress in patients with coronary artery disease. *Journal of Affective Disorders*. 254(1), 49-58. [Link to paper](https://drive.google.com/file/d/1tteilQGUksu5lUcZdJ6dl7Hx_32AAZBT/view?usp=sharing)
 
