@@ -1,6 +1,6 @@
 ## Manuscripts
 
-1. **Wittbrodt, M.T.**, Vaccarino, V., Shah, A.J., Mayer, E.A., Bremner, J.D. Psychometric Properties of the Lifetime Trauma Inventory. *Accepted - Health Psychology*
+1. **Wittbrodt, M.T.**, Vaccarino, V., Shah, A.J., Mayer, E.A., Bremner, J.D. Psychometric Properties of the Lifetime Trauma Inventory. *Accepted - Health Psychology*. [Link to Pre-Print](https://drive.google.com/file/d/13RXRNTFKPfBHfOZQpNwxZgMQwOFT225w/view?usp=sharing)
 
 2. Moazzami, K., **Wittbrodt, M.T.**, Lima, B.B., Levantsevych, O., Kaseer, B., Martini, A., Haffar, A., Nye, J., Quyyumi, A.A., Shah, A., Vaccarino, V., Bremner, J.D. Neural Correlates of Stress and Measures of Adiposity in Patients with Coronary Artery Disease.  *Accepted - Psychosomatic Medicine*
 
